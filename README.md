@@ -18,7 +18,7 @@ $ terraform plan
 $ terraform apply
 ```
 
-This creates a tfstate file locally without using the Terraform backend.  
+This creates a `.tfstate` file locally without using the Terraform backend.  
 If you want, you can download the code and modify it as desired.
 
 `terraform_lint.sh` checks the conventions and validity of variables in Terraform.
