@@ -1,0 +1,1 @@
+terraform fmt --recursive --check && terraform validate
