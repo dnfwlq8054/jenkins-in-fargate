@@ -9,7 +9,7 @@ AWS ECS Fargate to set up a Jenkins master and agent structure.
 - It is possible to divide build tasks into smaller units, and it is easy to identify logs and checkpoints.
 
 ## Architecture
-image
+![image] (https://user-images.githubusercontent.com/15880397/229363514-a2e20b89-81ad-43ac-bcdd-0d831e7de6e2.png)
 
 ## Use
 ```
