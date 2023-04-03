@@ -1,6 +1,9 @@
 # jenkins_in_fargate
 AWS ECS Fargate to set up a Jenkins master and agent structure.
 
+### Links to descriptions and settings.
+https://hwan-shell.tistory.com/375
+
 
 ### The advantages of using AWS Fargate for Jenkins are as follows:
 - No need to manage agents.
