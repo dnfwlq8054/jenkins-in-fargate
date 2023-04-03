@@ -1,4 +1,4 @@
-# jenkins_in_fargate
+# jenkins in fargate
 AWS ECS Fargate to set up a Jenkins master and agent structure.
 
 ### Links to descriptions and settings. https://hwan-shell.tistory.com/375
